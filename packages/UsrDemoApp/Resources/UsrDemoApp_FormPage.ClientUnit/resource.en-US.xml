@@ -3,6 +3,29 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Demo app form page" />
+			<Item Name="LocalizableStrings.AlreadyInSharePoint.Value" Value="The file already exists in Sharepoint" />
+			<Item Name="LocalizableStrings.AttachmentAddToSPButton_caption.Value" Value="Upload to SharePoint" />
+			<Item Name="LocalizableStrings.AttachmentAddToSPButtonCaption.Value" Value="Upload to SharePoint" />
+			<Item Name="LocalizableStrings.CannotViewInSPMsg.Value" Value="File cannot be viewed on SharePoint as it exists only in local storage." />
+			<Item Name="LocalizableStrings.CopySuccessfulMsg.Value" Value="ShareLink copied to clipboard." />
+			<Item Name="LocalizableStrings.CopyUnsuccessfulMsg.Value" Value="ShareLink cannot be copied as the file exists only in local storage and not in SharePoint." />
+			<Item Name="LocalizableStrings.DeleteConfirmationMessage.Value" Value="Are you sure that you want to delete the selected record?" />
+			<Item Name="LocalizableStrings.DeleteSPConfirmationMessage.Value" Value="Selected files will be deleted from SharePoint and Creatio. Do you want to continue?" />
+			<Item Name="LocalizableStrings.FileNameTooLong.Value" Value="Error uploading file to SharePoint. File name cannot be longer than 50 characters." />
+			<Item Name="LocalizableStrings.NoFolderMsg.Value" Value="SharePoint synchronization completed: Folder does not exist on SharePoint." />
+			<Item Name="LocalizableStrings.NotConfiguredSP.Value" Value="SharePoint Folder Structure is not configured for this section. Please configure the SharePoint Scaffolding Structure lookup before attempting to upload to SharePoint." />
+			<Item Name="LocalizableStrings.SizeExceededMsg.Value" Value="MB maximum file size limit exceeded. You can increase the maximum file size in the &quot;Attachment max size&quot; system setting." />
+			<Item Name="LocalizableStrings.SPConfig.Value" Value="SharePoint Folder Structure is not configured for this section. Please configure the SharePoint Scaffolding Structure lookup before attempting to upload to SharePoint." />
+			<Item Name="LocalizableStrings.SPCopyLink.Value" Value="Copy link" />
+			<Item Name="LocalizableStrings.SPDelete.Value" Value="Delete" />
+			<Item Name="LocalizableStrings.SPDownload.Value" Value="Download" />
+			<Item Name="LocalizableStrings.SPRetry.Value" Value="Retry upload to SharePoint" />
+			<Item Name="LocalizableStrings.SPView.Value" Value="View" />
+			<Item Name="LocalizableStrings.SyncFailMsg.Value" Value="SharePoint synchronization failed: " />
+			<Item Name="LocalizableStrings.SyncSPButton_caption.Value" Value="Sync" />
+			<Item Name="LocalizableStrings.SyncSuccessMsg.Value" Value="SharePoint synchronization successful." />
+			<Item Name="LocalizableStrings.UnsupportedFileTypeMsg.Value" Value="File Upload Error. Unsupported file type: " />
+			<Item Name="LocalizableStrings.UploadSuccessMsg.Value" Value="File successfully uploaded to SharePoint" />
 		</Items>
 	</Group>
 </Resources>

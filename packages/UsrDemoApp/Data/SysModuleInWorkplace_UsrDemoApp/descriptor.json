@@ -10,17 +10,17 @@
     },
     "Columns": [
       {
-        "ColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
-        "IsForceUpdate": false,
-        "IsKey": false,
-        "ColumnName": "SysModule",
-        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
-      },
-      {
         "ColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
         "IsForceUpdate": false,
         "IsKey": false,
         "ColumnName": "SysWorkplace",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysModule",
         "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
       },
       {
